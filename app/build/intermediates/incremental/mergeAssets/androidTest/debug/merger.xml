@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/androidTest/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="/Users/rohit/git/project/ResourceBasedSqliteHelper/app/build/intermediates/bundles/debug/assets"><file name="db_schema.sql" path="/Users/rohit/git/project/ResourceBasedSqliteHelper/app/build/intermediates/bundles/debug/assets/db_schema.sql"/></source></dataSet><dataSet config="main"><source path="/Users/rohit/git/project/ResourceBasedSqliteHelper/app/src/androidTest/assets"/></dataSet></merger>
