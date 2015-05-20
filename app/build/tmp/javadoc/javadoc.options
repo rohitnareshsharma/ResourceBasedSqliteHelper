@@ -1,0 +1,9 @@
+-classpath '/Users/rohit/Library/Android/sdk/platforms/android-19/android.jar'
+-d '/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/build/docs/javadoc'
+-doctitle 'app 1.0.0 API'
+-quiet 
+-windowtitle 'app 1.0.0 API'
+'/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/main/java/com/androidmagic/sqlite/DbManager.java'
+'/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/main/java/com/androidmagic/sqlite/MainActivity.java'
+'/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/main/java/com/androidmagic/sqlite/Person.java'
+'/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/main/java/com/androidmagic/sqlite/ResourceBasedSQLiteOpenHelper.java'

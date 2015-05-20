@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/main/assets"><file name="db_schema.sql" path="/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/main/assets/db_schema.sql"/></source></dataSet><dataSet config="debug"><source path="/Users/rohit/git/project/ResourceBasedSqliteHelper1/app/src/debug/assets"/></dataSet></merger>

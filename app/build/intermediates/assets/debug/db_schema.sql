@@ -1,0 +1,6 @@
+
+CREATE TABLE Person (
+   id  INTEGER PRIMARY KEY AUTOINCREMENT,
+   name CHAR(50) DEFAULT 'NoName',
+   address CHAR(1000) DEFAULT NULL,
+) ;
